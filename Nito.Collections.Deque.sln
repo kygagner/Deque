@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D1E43B37-4C8F-4BC9-B3E1-19F7292F734B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nito.Collections.Deque", "src\Nito.Collections.Deque\Nito.Collections.Deque.csproj", "{83983561-B471-4D13-97C4-B0F37D50AD9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nito.Collections.Deque", "src\Nito.Sn.Collections.Deque\Nito.Sn.Collections.Deque.csproj", "{83983561-B471-4D13-97C4-B0F37D50AD9B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "test\UnitTests\UnitTests.csproj", "{3E065FC5-0244-4FA7-8F45-BFC57B439056}"
 EndProject

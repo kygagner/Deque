@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Nito.Collections.Deque\Nito.Collections.Deque.csproj" />
+    <ProjectReference Include="..\..\src\Nito.Sn.Collections.Deque\Nito.Sn.Collections.Deque.csproj" />
   </ItemGroup>
 
   <ItemGroup>
